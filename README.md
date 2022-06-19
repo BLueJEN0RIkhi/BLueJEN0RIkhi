@@ -6,7 +6,7 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BLueJEN0RIkhi&theme=merko&text_color=c9cacc&icon_color=rainbow_color=1d1f21" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=BLueJEN0RIkhi&theme=merko&text_color=pink_color=blue_color=ocean blue" />
 
 <!---
 BLueJEN0RIkhi/BLueJEN0RIkhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
